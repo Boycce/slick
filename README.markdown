@@ -1,3 +1,6 @@
+#Boyce: Slick 1.8.1 seems omit the original classes from the elements.
+
+
 slick
 -------
 
